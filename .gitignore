@@ -1,4 +1,5 @@
 Debug/
+.vs/
 MCCopy.sln
 MCCopy.vcxproj
 MCCopy.vcxproj.filters
