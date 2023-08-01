@@ -1,4 +1,7 @@
 #pragma once
+
+#include <vector>
+
 #include "Blocks.h"
 #include "Mathematics.h"
 
@@ -36,7 +39,7 @@ namespace MC {
 	public:
 
 	private:
-
+		std::vector <Chunk> m_Map;
 	};
 
 	void InitSolidMap(SolidMap&);
