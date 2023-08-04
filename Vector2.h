@@ -1,9 +1,10 @@
 #pragma once
+
 #include <iostream>
 
-namespace math {
+#include "UsefulMath.h"
 
-	float Q_rsqrt(float);
+namespace math {
 
 	class Vector2
 	{
