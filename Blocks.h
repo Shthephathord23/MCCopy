@@ -40,9 +40,8 @@ namespace MC {
 
 	const unsigned long long numberOfBlocks = 10;
 
-	Block blocuri[numberOfBlocks];
+	extern Block blocuri[numberOfBlocks];
 
 	void InitalizeBlocks();
 
 }
-	
