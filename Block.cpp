@@ -1,3 +1,3 @@
-#include "Blocks.h"
+#include "Block.h"
 
 namespace MC { Block blocuri[numberOfBlocks]; }
